@@ -1,0 +1,10 @@
+git init
+dir
+git status
+cls
+git add testing.py
+git status
+git rm --cached testing.py
+git commit -m "message"
+git restore <file>
+rm <file>
