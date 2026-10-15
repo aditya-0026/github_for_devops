@@ -15,4 +15,4 @@ git push origin master
 git clone <github repo link>-for making clone from github to local 
 fork-for making clone on github
 
-by using ssh:-
+git pull origin master
