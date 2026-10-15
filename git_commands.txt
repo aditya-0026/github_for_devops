@@ -12,3 +12,5 @@ git remote add origin https://---
 get remote set-url origin https;//token@github.com/aditya-0026/github_for_devops.git
 git remote -v
 git push origin master
+git clone <github repo link>-for making clone from github to local 
+fork-for making clone on github
