@@ -23,4 +23,5 @@ git branch
 git switch dev or git checkout dev
 git log
 git log --oneline
-
+git fetch = used to take branch from github to local
+git pull= used to update the local info compared to the github
