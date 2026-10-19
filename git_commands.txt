@@ -16,3 +16,11 @@ git clone <github repo link>-for making clone from github to local
 fork-for making clone on github
 
 git pull origin master
+
+BRANCHING:-
+git branch dev
+git branch
+git switch dev or git checkout dev
+git log
+git log --oneline
+
