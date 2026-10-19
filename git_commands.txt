@@ -1,5 +1,6 @@
 git init
 dir
+dir /a = for hidden files
 git status
 cls
 git add testing.py
@@ -25,3 +26,6 @@ git log
 git log --oneline
 git fetch = used to take branch from github to local
 git pull= used to update the local info compared to the github
+git merge <filename>
+
+HOOKS- used to place some pre checks before committing any file
