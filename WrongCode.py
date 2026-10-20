@@ -1,6 +1,9 @@
 def func():
-    a=3
-    b=4
-    return d
+
+    a = 3
+    b = 4
+    c = a + b
+    return c
+
+
 func()
-test()
